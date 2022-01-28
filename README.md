@@ -1,4 +1,4 @@
-# RADON Particles
+# Lab 7 TOSCA Modeling & Orchestration
 
 > TOSCA definitions repository for the [RADON project](http://radon-h2020.eu)
 
